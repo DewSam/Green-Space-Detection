@@ -2,7 +2,7 @@
 ### Goal:
 Detection of Green Spaces in an Urban Region for Future Urban Revitalization
 ### Project Details
-1- The Governance Aspect utilizes high-resolution imagery obtained from the Green Expo Park Center (Zhengzhou City, China) via an unmanned aerial vehicle (UAV). <br>
+1- The dataset is a high-resolution imagery obtained from the Green Expo Park Center (Zhengzhou City, China) via an unmanned aerial vehicle (UAV). <br>
 2- Sample selection is carried out randomly with input from on-site experts and the project holder.<br>
 3- Each sample consists of a 30 by 30-pixel image categorized into one of five classes: 'bldg' (representing buildings and structures), 'park' (denoting green spaces), 'pav' (indicating paved areas like plazas and sidewalks), 'water'<br>   
  (corresponding to lakes and ponds), and 'trans' (representing transportation spaces such as roads and streets).<br>
