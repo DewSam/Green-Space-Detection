@@ -1,4 +1,4 @@
-# GreenSpaceDetection
+# Green Space Detection
 ### Goal:
 Detection of Green Spaces in an Urban Region for Future Urban Revitalization
 ### Project Details
@@ -10,6 +10,8 @@ Detection of Green Spaces in an Urban Region for Future Urban Revitalization
 5- The dataframe is divided into training and test datasets, each containing 500 samples spread across the five classes.<br>  <br>
 6- Each observation within the dataset is defined by 2,700 pixel values, which serve as features.<br>  <br>
 7- The main goal of this study is to classify numeric attributes for the purpose of detecting green spaces.<br>  <br>
+
+### Results:
 
 ### Reference(s)
 - https://www.youtube.com/watch?v=jztwpsIzEGc&t=4175s
